@@ -1,0 +1,16 @@
+{
+  "name": "seminar-demo-02",
+  "tenantCode": "unregistered",
+  "submodules": [],
+  "images": {
+    "seminar-demo-02": {
+      "targets": [
+        {
+          "environment": "dev",
+          "registryUrl": "devimages.azurecr.io"
+        }
+      ],
+      "definitionPath": "./Dockerfile"
+    }
+  }
+}

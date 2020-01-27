@@ -1,0 +1,30 @@
+{
+  "name": "seminar-demo-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfreydl/seminar-demo-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfreydl/seminar-demo-02/issues"
+  },
+  "homepage": "https://github.com/mfreydl/seminar-demo-02#readme",
+  "dependencies": {
+    "@mfreydl/toyhauler-api-framework": "^1.0.56-52",
+    "toyhauler-common": "0.0.3-67"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.7",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^7.0.1"
+  }
+}
